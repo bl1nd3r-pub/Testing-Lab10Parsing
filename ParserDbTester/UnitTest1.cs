@@ -1,4 +1,6 @@
-﻿namespace ParserDbTester
+﻿using Xunit;
+
+namespace ParserDbTester
 {
     public class UnitTest1
     {
